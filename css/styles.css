@@ -322,7 +322,7 @@ img {
 }
 
 .social-icon {
-  fill: var(--cloud);
+  fill: var(--cloud, #f4f4fd);
 }
 
 .social-link:hover .social-icon,
