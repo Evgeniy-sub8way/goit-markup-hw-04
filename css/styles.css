@@ -14,10 +14,6 @@ p {
   margin: 0;
 }
 
-:root {
-  --cloud: #f4f4fd;
-}
-
 ul,
 ol {
   list-style: none;
@@ -322,7 +318,7 @@ img {
 }
 
 .social-icon {
-  fill: var(--cloud);
+  fill: #f4f4fd;
 }
 
 .social-link:hover .social-icon,
